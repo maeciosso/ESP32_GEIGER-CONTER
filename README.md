@@ -15,6 +15,9 @@ hope, as I figured it would be easier to find voltage-boosting circuits (to powe
 However, I couldn’t find any “simple” circuits that could be modified without affecting the rest of the device. That’s why I decided to go with the oscillator circuit
 and continue the sequence (voltage boosting, stabilization, detection, and measurement of the reading).
 
+The original base circuit comes from this youtube video: https://www.youtube.com/watch?v=lRNw5JOoL-w&t=160s
+creator channel: https://www.youtube.com/@TannerTech
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PORTUGUES:
@@ -31,3 +34,6 @@ Comecei a pesquisar sobre o assunto e vi que existe uma "comunidade" que monta o
 esperança pois imaginei que seria mais fácil de encontrar circuitos elevadores de tensão (para alimentação do tubo) e circuitos detectores (detecção de pulso).
 Porem não cheguei a encontrar circuitos "simples" que pudessem ser modificados sem afetar o resto do dispositivo. Por isso decidi seguir pelo circuito oscilador
 e continuar a sequencia (elevação, estabilização, detecção e mensuração da leitura).
+
+O circuito base original vem desse video do youtube: https://www.youtube.com/watch?v=lRNw5JOoL-w&t=160s
+Canal do criador: https://www.youtube.com/@TannerTech
